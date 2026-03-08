@@ -1,2 +1,4 @@
 # rockchip-debian
-Debian for rockchip soc
+
+Debian for Rockchip SoC
+
