@@ -4,8 +4,8 @@
 
 | Interface | Pin | GPIO | Function |
 |------|------|------|------|
-| I2C4 | Pin 27 | GPIO4_B2 | SDA |
-| I2C4 | Pin 28 | GPIO4_B3 | SCL |
+| I2C5 | Pin 29 | GPIO3_B3 | SCL |
+| I2C5 | Pin 31 | GPIO3_B4 | SDA |
 
 ## MIPI CSI
 
